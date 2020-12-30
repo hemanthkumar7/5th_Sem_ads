@@ -27,7 +27,7 @@ int main()
     for (int i=0;i<n;i++)
        cin >> arr[i];
     
-    cout << "Array after excluding 2 greatest elements:"<<endl;   
+    cout << "Array after excluding Two greatest elements:"<<endl;   
     findElements(arr, n); 
     return 0; 
 }
